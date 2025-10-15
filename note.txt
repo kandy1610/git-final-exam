@@ -1,3 +1,5 @@
 - Git giúp tôi hiểu rõ quy trình làm việc nhóm trong lập trình.  
 - Dễ dàng theo dõi và khôi phục lịch sử thay đổi của mã nguồn.  
 - Giúp tăng tính kỷ luật và chuyên nghiệp trong quản lý dự án phần mềm.
+- Tôi học được cách sử dụng branch, merge và xử lý xung đột hiệu quả.  
+- Git là công cụ không thể thiếu cho mọi lập trình viên hiện đại. 
