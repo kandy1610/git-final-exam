@@ -5,3 +5,6 @@ Thứ 4: Học lệnh reset, revert, và stash.
 Thứ 5: Giải quyết xung đột merge trên thực tế. 
 Thứ 6: Tạo pull request và làm việc nhóm trên GitHub. 
 Thứ 7: Tổng kết và ghi lại kinh nghiệm học được. 
+- Hoàn thành bài kiểm tra Git.
+- Thực hành merge và resolve conflict.
+- Chuẩn bị cho phần diff & stash.
