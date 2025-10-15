@@ -1,0 +1,5 @@
+Mô tả tính năng mới: 1. Ứng dụng sẽ tự động ghi lại thời gian học của sinh viên mỗi ngày.
+2. Hệ thống phân tích tiến độ học và đưa ra gợi ý cải thiện.
+3. Cho phép đồng bộ ghi chú học tập lên GitHub hoặc Google Drive.
+4. Tính năng nhắc nhở khi chưa hoàn thành mục tiêu học trong ngày.
+5. Giao diện thân thiện, hỗ trợ đa nền tảng (Windows, macOS, Linux).
