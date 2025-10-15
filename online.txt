@@ -1,3 +1,5 @@
 Đây là file được tạo trực tiếp trên GitHub.  
 Tôi đang thực hành bài kiểm tra Git Final Exam.  
 GitHub giúp lưu trữ và chia sẻ mã nguồn dễ dàng.
+Git giúp làm việc nhóm hiệu quả và rõ ràng hơn.  
+Thực hành Git giúp tôi hiểu sâu hơn về quy trình phát triển phần mềm.
